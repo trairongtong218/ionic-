@@ -1,0 +1,7 @@
+{
+  "name": "deltasale",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
